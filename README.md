@@ -1,4 +1,5 @@
-# t
+# Demo
+This project is based on BaklavaJS, please check https://v2.baklava.tech/ for detailed documentation information.
 
 ## Project setup
 ```
